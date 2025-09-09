@@ -1,0 +1,11 @@
+# requirements.txt
+
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+
+# Bibliotecas para os serviços
+openai
+supabase
+httpx

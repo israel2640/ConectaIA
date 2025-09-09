@@ -1,0 +1,20 @@
+# Arquivos de Segredos e Configurações de Ambiente
+.env
+
+# Ambiente Virtual do Python
+venv/
+.venv/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do Editor (Visual Studio Code)
+.vscode/
+
+# Arquivos Executáveis (Adicionado)
+*.exe
+
+# Arquivos de sistema operacional que podem aparecer (ex: macOS, Windows).
+.DS_Store
+Thumbs.db
